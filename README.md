@@ -1,9 +1,8 @@
 I develop, architect, solve problems, inspire, motivate, and teach/share my knowledge with others.
 
-* Currently working as C# back-end developer at Quadira.
-* I am currently learning about:
-  * Graphics programming.
-  * Neural Networks.
+* Currently working as C# back-end developer at Quadira (2016 - Present).
+* I am currently studying at university for bachelor of science in Software Engineering.
+* I am currently learning about: Nothing (school takes up a lot of my free time)
 * Previously contributed to the following open source projects:
   * [Naga](https://github.com/gfx-rs/naga), a source-to-source shader compiler.
 * Part of the following organizations:
