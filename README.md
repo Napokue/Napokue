@@ -1,7 +1,7 @@
 I develop, architect, solve problems, inspire, motivate, and teach/share my knowledge with others.
 
 * I am currently studying at university for bachelor of science in Software Engineering.
-* I am currently learning about: Blazor, Razor (specifically the parser and runtime), ASP.NET Core and .NET best practices.
+* I am currently learning about: Blazor, Razor (specifically the parser and runtime), ASP.NET Core and .NET best practices. This all while contributing as much as I can to the .NET community.
 * Previously contributed to the following open source projects:
   * [Naga](https://github.com/gfx-rs/naga), a source-to-source shader compiler.
 * Part of the following organizations:
